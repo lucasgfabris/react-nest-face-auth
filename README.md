@@ -1,11 +1,11 @@
-# Face Mask Auth
+# React Nest Face Auth
 
-![GitHub repo size](https://img.shields.io/github/repo-size/lucasgfabris/face-mask?style=for-the-badge)
-![GitHub language count](https://img.shields.io/github/languages/count/lucasgfabris/face-mask?style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/lucasgfabris/react-nest-face-auth?style=for-the-badge)
+![GitHub language count](https://img.shields.io/github/languages/count/lucasgfabris/react-nest-face-auth?style=for-the-badge)
 
 > Sistema de autenticacao facial seguro e escalavel usando reconhecimento facial com face-api.js. Oferece registro e login via camera com deteccao em tempo real de posicionamento, iluminacao e qualidade da imagem.
 
-<img src="imagem.png" alt="Face Mask Auth">
+<img src="imagem.png" alt="React Nest Face Auth">
 
 ## Pre-requisitos
 
@@ -17,11 +17,11 @@ Antes de comecar, verifique se voce atendeu aos seguintes requisitos:
 
 ## Instalando
 
-Para instalar o Face Mask Auth, siga estas etapas:
+Para instalar o React Nest Face Auth, siga estas etapas:
 
 ```bash
-git clone https://github.com/lucasgfabris/face-mask.git
-cd face-mask
+git clone https://github.com/lucasgfabris/react-nest-face-auth.git
+cd react-nest-face-auth
 npm run install:all
 ```
 
@@ -54,7 +54,7 @@ PORT=3001
 
 ## Usando
 
-Para usar o Face Mask Auth, siga estas etapas:
+Para usar o React Nest Face Auth, siga estas etapas:
 
 ```bash
 npm run dev
@@ -88,7 +88,7 @@ Isso iniciara:
 ## Estrutura do Projeto
 
 ```
-face-mask/
+react-nest-face-auth/
 ├── frontend/               # Aplicacao React
 │   ├── public/models/     # Modelos de IA do face-api.js
 │   └── src/
@@ -104,7 +104,7 @@ face-mask/
 
 ## Contribuindo
 
-Para contribuir com Face Mask Auth, siga estas etapas:
+Para contribuir com React Nest Face Auth, siga estas etapas:
 
 1. Bifurque este repositorio.
 2. Crie um branch: `git checkout -b <nome_branch>`.

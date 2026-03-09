@@ -1,5 +1,5 @@
 {
-  "name": "face-mask-auth",
+  "name": "react-nest-face-auth",
   "version": "1.0.0",
   "description": "Sistema de autenticação facial escalável e reutilizável",
   "private": true,
